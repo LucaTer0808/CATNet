@@ -41,3 +41,10 @@ If you find this work is useful for your research, please cite our paper:
 ```
 
 If you anywhere questions, please tell me 724162106@qq.com.
+
+## Trained on ##
+- /scratch/tmp/lterfehr/datasets/rgbd/NJUD/train_data
+- /scratch/tmp/lterfehr/datasets/rgbd/NLPR/train_data
+- /scratch/tmp/lterfehr/datasets/rgbd/DUT-RGBG/train_data
+
+
